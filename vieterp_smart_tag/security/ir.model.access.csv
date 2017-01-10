@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_tag_partner_rule,tag.partner.rule,model_tag_partner_rule,base.group_user,1,1,1,1
+access_tag_partner_condition,tag.partner.condition,model_tag_partner_condition,base.group_user,1,1,1,1
